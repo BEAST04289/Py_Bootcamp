@@ -1,0 +1,12 @@
+{
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.suggest.showWords": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggestSelection": "first"
+}
