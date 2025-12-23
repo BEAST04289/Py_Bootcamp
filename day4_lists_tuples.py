@@ -29,7 +29,7 @@ print(sorted(my_list, key=str))  #sorting a list with mixed types (as strings)
 num2=[5,2,9,1]
 num2.sort()  #sorting a list in place
 num2.append(3) #adding a new item at the end
-num2.insert(2,4) #inserting an item at index 2
+num2.insert(2,4) #inserting an item 4 at index 2
 num2.remove(9) #removing an item
 num2.reverse() #reversing the list
 num2.pop() #removing and returning the last item
